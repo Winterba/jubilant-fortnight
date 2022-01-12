@@ -1,2 +1,2 @@
 # jubilant-fortnight
-Deploy a wep app
+Build a wep app
